@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/dash_menu"
+        android:icon="@drawable/ic_icon_dash_board"
+        android:title="Dash Board" />
+    <item
+        android:id="@+id/sale_menu"
+        android:icon="@drawable/ic_icon_cart"
+        android:title="Sales" />
+    <item
+        android:id="@+id/settlement_menu"
+        android:icon="@drawable/ic_icon_material_attach_money"
+        android:title="Settlement" />
+    <item
+        android:id="@+id/analytics_menu"
+        android:icon="@drawable/ic_analytics"
+        android:title="Analytics" />
+
+    <item
+        android:id="@+id/setting_menu"
+        android:visible="false"
+        android:icon="@drawable/ic_icon_awesom_settings"
+        android:title="Settings" />
+</menu>
